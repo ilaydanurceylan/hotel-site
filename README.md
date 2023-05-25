@@ -1,7 +1,7 @@
 # hotel-site
 basit bir frontend örneği html css ile hazırlanmıştır flexbox kullanımı içeirir
 
-
+http://127.0.0.1:5503/index.html
 
 
 ![Ekran görüntüsü 2023-03-14 234514](https://user-images.githubusercontent.com/127885127/225132993-5a3a752c-727f-4e9e-a164-cd387d0bd87e.png)
